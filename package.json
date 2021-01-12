@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dendron-cli": "dendron-cli"
+  },
+  "license": "CC BY 4.0",
+  "devDependencies": {
+    "@dendronhq/dendron-11ty": "^1.22.0",
+    "@dendronhq/dendron-cli": "^0.22.0"
+  }
+}
