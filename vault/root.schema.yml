@@ -2,6 +2,7 @@ version: 1
 imports: []
 schemas:
   - id: root
+    desc: "denrond学习"
     children: []
     title: root
     parent: root

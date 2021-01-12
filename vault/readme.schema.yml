@@ -1,0 +1,16 @@
+version: 1
+imports: []
+schemas:
+  - id: readme
+    children: 
+    - denron入门
+    - test
+    title: readme
+    parent: root
+  - id: test
+  - id: denron入门
+    children:
+      - denron入门.使用笔记
+      - denron入门.使用链接
+  - id: denron入门.使用笔记
+  - id: denron入门.使用链接
