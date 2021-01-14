@@ -2,7 +2,7 @@
 id: 869a839a-3345-44e3-9c4a-0e39a2072ca9
 title: Dendron入门
 desc: ''
-updated: 1609861792314
+updated: 1610590090703
 created: 1609860352333
 ---
 
@@ -14,6 +14,8 @@ vscode安装Dendron插件
 
 已经学会markdown语法
 
-[[dendron入门.使用笔记]]
+- [x] [[dendron入门.使用笔记]]
 
-[[dendron入门.使用链接]]
+- [x] [[dendron入门.使用链接]]
+
+- [x] [[使用schema标记任务]]
